@@ -116,10 +116,10 @@ a:hover {
 }
 
 .footer {
-    background-color: #333652; 
-    color: white; 
-    text-align: center; 
-    padding: 20px 0; 
+    background-color: #333652;
+    display: flex;
+    align-items: center;
+    padding: 20px;
 }
 
 .footer-link {
