@@ -116,15 +116,15 @@ a:hover {
 }
 
 .footer {
-    background-color: #333652; /* Color de fondo */
-    color: white; /* Color del texto */
-    text-align: center; /* Centrar el texto */
-    padding: 20px 0; /* Espaciado en la parte superior e inferior */
+    background-color: #333652; 
+    color: white; 
+    text-align: center; 
+    padding: 20px 0; 
 }
 
 .footer-link {
-    color: white; /* Color del enlace */
-    text-decoration: none; /* Sin subrayado */
+    color: white; 
+    text-decoration: none; 
 }
 
 .footer-link:hover {
