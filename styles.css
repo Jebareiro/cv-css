@@ -117,6 +117,7 @@ a:hover {
 
 .footer {
     background-color: #333652;
+    color: white;
     display: flex;
     align-items: center;
     padding: 20px;
